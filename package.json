@@ -1,0 +1,21 @@
+{
+  "name": "smart_productwall",
+  "version": "1.0.0",
+  "description": "My spectacular Nuxt.js project",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "jquery": "^3.5.1",
+    "nuxt": "^2.0.0",
+    "vue-slick-carousel": "^1.0.5",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {}
+}
